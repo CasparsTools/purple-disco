@@ -13,7 +13,7 @@ Tools For Discord.
 - Support 24/7
 
 
-# Setup ♣
+# Setup ♠
 1. Install Python
 2. Run `setup.bat`
 3. Enjoy :)
