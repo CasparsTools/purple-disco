@@ -24,4 +24,4 @@ Join the [Discord Server](https://discord.gg/fRvbaqCSG5) for help/bug report or 
 
 ***For educational purposes only. I decline any responsibility for what you do with it.***
 
-                 *Made with ❤ by Krysstals.*
+Made with ❤ by Krysstals.
