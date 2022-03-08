@@ -23,3 +23,5 @@ Tools For Discord.
 Join the [Discord Server](https://discord.gg/fRvbaqCSG5) for help/bug report or make a suggestion
 
 ***For educational purposes only. I decline any responsibility for what you do with it.***
+
+                 *Made with ❤ by Krysstals.*
